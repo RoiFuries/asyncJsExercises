@@ -6,7 +6,10 @@
   "scripts": {
     "callback": "node src/callback/index.js",
     "callback:challenge": "node src/callback/challenge.js",
-    "correloPrrr": "node src/Promises/index.js"
+    "correloPrrr": "node src/Promises/index.js",
+    "runPrr": "node src/Promises/challenge.js",
+    "async": "node src/async/index.js",
+    "asyncPrr": "node src/async/challenge.js  "
 
   },
   "keywords": [
